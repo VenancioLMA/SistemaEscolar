@@ -1,7 +1,7 @@
+package Servicos;
 
 import Entidades.Alunos;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class CadastroAluno {
